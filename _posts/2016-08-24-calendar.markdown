@@ -7,207 +7,207 @@ tags:
 - event
 ---
 
-[![](/content/images/2018/07/dbInsurtech-1.jpg)](https://conferences.db.com/" target="_blank)
+[![](/jekyll/content/images/2018/07/dbInsurtech-1.jpg)](https://conferences.db.com/" target="_blank)
 [**Dbaccess InsurTech Conference - 13 Sept - London**](https://conferences.db.com/" target="_blank)
 
 ___
 
-[![](/content/images/2018/05/eba.png)](https://www.abe-eba.eu/training-education/eba-summerwinter-schools-and-other-educational-seminars/#EBA%20Summer%20School%202018" target="_blank)
+[![](/jekyll/content/images/2018/05/eba.png)](https://www.abe-eba.eu/training-education/eba-summerwinter-schools-and-other-educational-seminars/#EBA%20Summer%20School%202018" target="_blank)
 [**EBA Summer School - 2-4 July - Nice, France**](https://www.abe-eba.eu/training-education/eba-summerwinter-schools-and-other-educational-seminars/#EBA%20Summer%20School%202018" target="_blank)
 
 ___
 
-[![](/content/images/2018/04/wales.jpg)](http://www.digital-festival.co.uk/events/digital-festival/custom-20-cb9e948458e2445bb59b0f7e5654d773.aspx" target="_blank)
+[![](/jekyll/content/images/2018/04/wales.jpg)](http://www.digital-festival.co.uk/events/digital-festival/custom-20-cb9e948458e2445bb59b0f7e5654d773.aspx" target="_blank)
 [**Digital Festival - 21-22 May - Wales**](http://www.digital-festival.co.uk/events/digital-festival/custom-20-cb9e948458e2445bb59b0f7e5654d773.aspx" target="_blank)
 
 ___
 
-[![](/content/images/2018/05/miami_main.png)](http://eurofinancectn.com/resource/resmgr/Miami_2018/Program_2018.html" target="_blank)
+[![](/jekyll/content/images/2018/05/miami_main.png)](http://eurofinancectn.com/resource/resmgr/Miami_2018/Program_2018.html" target="_blank)
 [**EuroFinance - 15-17 May - Miami**](http://eurofinancectn.com/resource/resmgr/Miami_2018/Program_2018.html" target="_blank)
 
 ___
 
-[![](/content/images/2018/04/rome.png)](http://www.fintechstage.com/portfolio-posts/fintechstage-festival-2018/" target="_blank)
+[![](/jekyll/content/images/2018/04/rome.png)](http://www.fintechstage.com/portfolio-posts/fintechstage-festival-2018/" target="_blank)
 [**FinTechStage Festival - 7-10 May - Rome**](http://www.fintechstage.com/portfolio-posts/fintechstage-festival-2018/" target="_blank)
 
 ___
 
-[![](/content/images/2018/04/UNVienna.png)](http://www.fatf-gafi.org/" target="_blank)
+[![](/jekyll/content/images/2018/04/UNVienna.png)](http://www.fatf-gafi.org/" target="_blank)
 [**FATF PSCF - 23-24 Apr - Vienna**](http://www.fatf-gafi.org/" target="_blank)
 
 ___
 
-[![](/content/images/2018/03/HMT-fintech-1.png)](https://www.internationalfintechconference.com/internationalfintechconference2018/contenttabs/?ctid=2069" target="_blank)
+[![](/jekyll/content/images/2018/03/HMT-fintech-1.png)](https://www.internationalfintechconference.com/internationalfintechconference2018/contenttabs/?ctid=2069" target="_blank)
 [**HM Treasury Fintech Conference - 22 Mar - London**](https://www.internationalfintechconference.com/internationalfintechconference2018/contenttabs/?ctid=2069" target="_blank)
 
 ___
 
-[![](/content/images/2018/01/Money2020-1.png)](https://asia.money2020.com/" target="_blank)
+[![](/jekyll/content/images/2018/01/Money2020-1.png)](https://asia.money2020.com/" target="_blank)
 [**Money 20/20 Asia - 13/15 Mar - Singapore**](https://asia.money2020.com/" target="_blank)
 
 ___
 
-[![](/content/images/2018/03/cordacon.png)](https://www.cvent.com/c/express/7753d792-b231-4731-a366-ad32bc7fe463" target="_blank)
+[![](/jekyll/content/images/2018/03/cordacon.png)](https://www.cvent.com/c/express/7753d792-b231-4731-a366-ad32bc7fe463" target="_blank)
 [**CordaCon - 7 Mar - Tokyo**](https://www.cvent.com/c/express/7753d792-b231-4731-a366-ad32bc7fe463" target="_blank)
 
 ___
 
-[![](/content/images/2018/03/kyc-summit.jpg)](http://finance-edge.com/kycamleu/" target="_blank)
+[![](/jekyll/content/images/2018/03/kyc-summit.jpg)](http://finance-edge.com/kycamleu/" target="_blank)
 [**KYC/AML Summit Europe - 7 Mar - London**](http://finance-edge.com/kycamleu/" target="_blank)
 ___
 
-[![](/content/images/2016/12/FTCLive-1.jpg)](http://www.fintechconnectlive.com/" target="_blank)
+[![](/jekyll/content/images/2016/12/FTCLive-1.jpg)](http://www.fintechconnectlive.com/" target="_blank)
 [**Fintech Connect Live - 6/7 Dec - London, UK**](http://www.fintechconnectlive.com/" target="_blank)
 
 ___
 
-[![](/content/images/2017/10/Wealth2-1.jpg)](http://www.terrapinn.com/conference/Wealth2/index.stm" target="_blank)
+[![](/jekyll/content/images/2017/10/Wealth2-1.jpg)](http://www.terrapinn.com/conference/Wealth2/index.stm" target="_blank)
 [**Wealth 2.0 - 29 November - London**](http://www.terrapinn.com/conference/Wealth2/index.stm" target="_blank)
 
 ___
 
-[![](/content/images/2017/10/FWF.jpg)](http://fintechconferences.com/" target="_blank)
+[![](/jekyll/content/images/2017/10/FWF.jpg)](http://fintechconferences.com/" target="_blank)
 [**FintechWorld Forum - 21/22 Nov - London, UK**](http://fintechconferences.com/" target="_blank)
 
 ___
 
-[![](/content/images/2017/09/cta-bkg.jpg)](https://cashandliquidityeu.iqpc.co.uk/" target="_blank)
+[![](/jekyll/content/images/2017/09/cta-bkg.jpg)](https://cashandliquidityeu.iqpc.co.uk/" target="_blank)
 [**Cash & Liquidity EU - 2 November - London**](https://cashandliquidityeu.iqpc.co.uk/" target="_blank)
 
 ___
 
-[![](/content/images/2017/10/IFC.jpg)](http://www.ifc.org/wps/wcm/connect/Industry_EXT_Content/IFC_External_Corporate_Site/TMT/Priorities_TMT/TMT_Fintech" target="_blank)
+[![](/jekyll/content/images/2017/10/IFC.jpg)](http://www.ifc.org/wps/wcm/connect/Industry_EXT_Content/IFC_External_Corporate_Site/TMT/Priorities_TMT/TMT_Fintech" target="_blank)
 [**IFC Fintech CEO Summit - 19/20 Oct - Washington,US**](http://www.ifc.org/wps/wcm/connect/Industry_EXT_Content/IFC_External_Corporate_Site/TMT/Priorities_TMT/TMT_Fintech" target="_blank)
 ___
 
-[![](/content/images/2017/09/InsurtechRising-1.jpg)](https://finance.knect365.com/insurtech/" target="_blank)
+[![](/jekyll/content/images/2017/09/InsurtechRising-1.jpg)](https://finance.knect365.com/insurtech/" target="_blank)
 [**Insurtech Rising - 18 October - London**](https://finance.knect365.com/insurtech/" target="_blank)
 
 ___
 
-[![](/content/images/2017/10/IMF.png)](https://www.imf.org/external/am/2017/index.htm" target="_blank)
+[![](/jekyll/content/images/2017/10/IMF.png)](https://www.imf.org/external/am/2017/index.htm" target="_blank)
 [**World Bank Annual Meetings - 10/15 Oct - Washington, US**](https://www.imf.org/external/am/2017/index.htm" target="_blank)
 
 ___
 
-[![](/content/images/2017/10/NZCity.jpg)](https://www.bnzba.co.nz/bnzba-events/gallery.cfm" target="_blank)
+[![](/jekyll/content/images/2017/10/NZCity.jpg)](https://www.bnzba.co.nz/bnzba-events/gallery.cfm" target="_blank)
 [**British New Zealand Business Association - 12 October - Auckland, NZ**](https://www.bnzba.co.nz/bnzba-events/gallery.cfm" target="_blank)
 ___
 
-[![](/content/images/2017/10/p20.jpg)](https://www.payments20.com/events/2017/10/10/p20-inaugural-meeting" target="_blank)
+[![](/jekyll/content/images/2017/10/p20.jpg)](https://www.payments20.com/events/2017/10/10/p20-inaugural-meeting" target="_blank)
 [**P20 Inaugural meeting - 10 October - London**](https://www.payments20.com/events/2017/10/10/p20-inaugural-meeting" target="_blank)
 
 ___
 
-[![](/content/images/2017/07/block-chain-1.png)](http://conferences.unicom.co.uk/blockchain/london/" target="_blank)
+[![](/jekyll/content/images/2017/07/block-chain-1.png)](http://conferences.unicom.co.uk/blockchain/london/" target="_blank)
 [**Blockchain Summit - 5 October - London**](http://conferences.unicom.co.uk/blockchain/london/" target="_blank)
 
 ___
 
-[![](/content/images/2017/09/fintecheurope2017winner.jpeg)](https://europe2017.fintech.nl/nominees/european-fintech-100-top-3" target="_blank)
+[![](/jekyll/content/images/2017/09/fintecheurope2017winner.jpeg)](https://europe2017.fintech.nl/nominees/european-fintech-100-top-3" target="_blank)
 [**European FinTech Awards - 27 Sept - Brussels**](https://europe2017.fintech.nl/nominees/european-fintech-100-top-3" target="_blank)
 
 ___
 
-[![](/content/images/2017/09/finsum-winner.png)](http://finsum.jp/" target="_blank)
+[![](/jekyll/content/images/2017/09/finsum-winner.png)](http://finsum.jp/" target="_blank)
 [**FIN/SUM - 19/22 Sept - Japan**](http://finsum.jp/" target="_blank)
 
 ___
 
-[![](/content/images/2016/11/Payments.png)](https://finance.knect365.com/payments-international/" target="_blank)
+[![](/jekyll/content/images/2016/11/Payments.png)](https://finance.knect365.com/payments-international/" target="_blank)
 [**Payments International - 18 Sept - London, UK**](https://finance.knect365.com/payments-international/" target="_blank)
 
 ___
 
-[![](/content/images/2017/06/paris.png)](http://www.placedelaconformite.com/event/?lang=en" target="_blank)
+[![](/jekyll/content/images/2017/06/paris.png)](http://www.placedelaconformite.com/event/?lang=en" target="_blank)
 [**Compliance & Regtech - 29 June - Paris**](http://www.placedelaconformite.com/event/?lang=en" target="_blank)
 
 ___
 
-[![](/content/images/2017/05/RegandTech.png)](http://www.regtechconf.com/" target="_blank)
+[![](/jekyll/content/images/2017/05/RegandTech.png)](http://www.regtechconf.com/" target="_blank)
 [**Regtech & Identity - 13-14 June - London**](http://www.regtechconf.com/" target="_blank)
 
 ___
 
-[![](/content/images/2017/04/DIA.png)](http://www.digitalinsuranceagenda.com/dia-amsterdam/" target="_blank)
+[![](/jekyll/content/images/2017/04/DIA.png)](http://www.digitalinsuranceagenda.com/dia-amsterdam/" target="_blank)
 [**DIA Amsterdam - 10-11 May - Netherlands**](http://www.digitalinsuranceagenda.com/dia-amsterdam/" target="_blank)
 
 ___
 
-[![](/content/images/2017/03/london.jpg)](https://www.events.trade.gov.uk/international-fintech-conference-2017-3/" target="_blank)
+[![](/jekyll/content/images/2017/03/london.jpg)](https://www.events.trade.gov.uk/international-fintech-conference-2017-3/" target="_blank)
 [**International FinTech Conference - 12 Apr - London, UK**](https://www.events.trade.gov.uk/international-fintech-conference-2017-3/" target="_blank)
 
 ___
 
-[![](/content/images/2017/03/ukti-aus.png)](https://www.events.trade.gov.uk/fintech-mission-to-australia/" target="_blank)
+[![](/jekyll/content/images/2017/03/ukti-aus.png)](https://www.events.trade.gov.uk/fintech-mission-to-australia/" target="_blank)
 [**Fintech Mission - 20/23 Mar - Sydney & Melbourne, AUS**](https://www.events.trade.gov.uk/fintech-mission-to-australia/" target="_blank)
 
 ___
-[![](/content/images/2017/04/FATF.png)](http://www.fatf-gafi.org/publications/fatfgeneral/documents/private-sector-mar-2017.html" target="_blank)
+[![](/jekyll/content/images/2017/04/FATF.png)](http://www.fatf-gafi.org/publications/fatfgeneral/documents/private-sector-mar-2017.html" target="_blank)
 [**FATF PSCF - 20/23 Mar - United Nations, Vienna, AT**](http://www.fatf-gafi.org/publications/fatfgeneral/documents/private-sector-mar-2017.html" target="_blank)
 
 ___
 
-[![](/content/images/2017/02/unnamed.png)](https://blockchainhackathon.eu/" target="_blank)
+[![](/jekyll/content/images/2017/02/unnamed.png)](https://blockchainhackathon.eu/" target="_blank)
 [**Dutch Blockchain HACKATHON - 10/12 Feb - Groningen, NL**](https://blockchainhackathon.eu/" target="_blank)
 
 ___
-[![](/content/images/2016/12/FTCLive-1.jpg)](http://www.fintechconnectlive.com/" target="_blank)
+[![](/jekyll/content/images/2016/12/FTCLive-1.jpg)](http://www.fintechconnectlive.com/" target="_blank)
 [**Fintech Connect Live - 6/7 Dec - London, UK**](http://www.fintechconnectlive.com/" target="_blank)
 
 ___
 
-[![](/content/images/2016/08/RegTech.jpg)](http://www.regtech-summit-us.com/" target="_blank)
+[![](/jekyll/content/images/2016/08/RegTech.jpg)](http://www.regtech-summit-us.com/" target="_blank)
 [**RegTech summit US - 17 Nov - New York, US**](http://www.regtech-summit-us.com/" target="_blank)
 
 ___
 
-[![](/content/images/2016/11/Payments.png)](https://finance.knect365.com/payments-international/" target="_blank)
+[![](/jekyll/content/images/2016/11/Payments.png)](https://finance.knect365.com/payments-international/" target="_blank)
 [**Payments International - 15/18 Nov - London, UK**](https://finance.knect365.com/payments-international/" target="_blank)
 
 ___
 
-[![](/content/images/2016/08/IdentityKYC.jpg)](http://identity-kyc-us.com/" target="_blank)
+[![](/jekyll/content/images/2016/08/IdentityKYC.jpg)](http://identity-kyc-us.com/" target="_blank)
 [**Identity & KYC summit US - 16 Nov - New York, US**](http://identity-kyc-us.com/" target="_blank)
 
 ___
 
-[![](/content/images/2016/11/insurtech.jpg)](https://finance.knect365.com/insurtech/" target="_blank)
+[![](/jekyll/content/images/2016/11/insurtech.jpg)](https://finance.knect365.com/insurtech/" target="_blank)
 [**Insurtech Rising - 14/16 Nov - London, UK**](https://finance.knect365.com/insurtech/" target="_blank)
 
 ___
 
-[![](/content/images/2016/10/SingaporeFintechFestival.png)](http://www.fintechfestival.sg/" target="_blank)
+[![](/jekyll/content/images/2016/10/SingaporeFintechFestival.png)](http://www.fintechfestival.sg/" target="_blank)
 [**Singapore Fintech Festival - 14/18 Nov - Singapore**](http://www.fintechfestival.sg/" target="_blank)
 
 ___
-[![](/content/images/2016/10/ConfBG-2016-Vienna.jpg)](http://www.eurofinance.com/conferences/international-treasury-and-cash-management" target="_blank)
+[![](/jekyll/content/images/2016/10/ConfBG-2016-Vienna.jpg)](http://www.eurofinance.com/conferences/international-treasury-and-cash-management" target="_blank)
 [**International Treasury & Cash Management - 12/14 Oct - Vienna, Austria**](http://www.eurofinance.com/conferences/international-treasury-and-cash-management" target="_blank)
 
 ___
 
-[![](/content/images/2016/09/Updated-image-for-ITC-1.jpg)](http://itcevent.com/" target="_blank)
+[![](/jekyll/content/images/2016/09/Updated-image-for-ITC-1.jpg)](http://itcevent.com/" target="_blank)
 [**Insurance Technology Congress - 20/21 Sept - London, UK**](http://itcevent.com/" target="_blank)
 
 ___
 
-[![](/content/images/2016/08/Tradetech-FX-Logo-2.png)](http://tradetechfx.wbresearch.com/" target="_blank)
+[![](/jekyll/content/images/2016/08/Tradetech-FX-Logo-2.png)](http://tradetechfx.wbresearch.com/" target="_blank)
 [**TradeTech FX - 13/15 Sept - London, UK**](http://tradetechfx.wbresearch.com/" target="_blank)
 
 ___
 
 
-[![](/content/images/2016/09/Estonia.png)](http://www.futureofidentity.org/" target="_blank)
+[![](/jekyll/content/images/2016/09/Estonia.png)](http://www.futureofidentity.org/" target="_blank)
 [**The Future of Identity - 1/3 Sept - Tallinn, Estonia**](http://www.futureofidentity.org/" target="_blank)
 
 ___
 
 
-[![](/content/images/2016/09/ebaday.jpg)](http://www.ebaday.com/default.aspx" target="_blank)
+[![](/jekyll/content/images/2016/09/ebaday.jpg)](http://www.ebaday.com/default.aspx" target="_blank)
 [**EBA Day - 7/8 June - Milan, Italy**](http://www.ebaday.com/default.aspx" target="_blank)
 
 ___
 
 
-[![](/content/images/2016/09/background-brain.png)](http://fintechstage.com/amsterdam-2016/" target="_blank)
+[![](/jekyll/content/images/2016/09/background-brain.png)](http://fintechstage.com/amsterdam-2016/" target="_blank)
 [**FinTechStage - 25 May - Tripolis, Amsterdam**](http://fintechstage.com/amsterdam-2016/" target="_blank)
