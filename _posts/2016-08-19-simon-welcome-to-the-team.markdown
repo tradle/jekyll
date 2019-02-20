@@ -7,7 +7,7 @@ date: '2016-08-19 22:08:57'
 tags:
 - news
 ---
-![](/content/images/2016/08/sea-sunny-beach-holiday-large-1.jpg)
+![](/jekyll/content/images/2016/08/sea-sunny-beach-holiday-large-1.jpg)
 Hey team and friends,
 
 I would like to welcome to our team, Simon Tradle (formerly Simon Wilkinson).
