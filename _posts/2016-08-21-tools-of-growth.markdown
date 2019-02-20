@@ -9,7 +9,7 @@ tags:
 - governance
 - technical
 ---
-![](/content/images/2016/08/construction-work-carpenter-tools1.jpg)
+![](content/images/2016/08/construction-work-carpenter-tools1.jpg)
 There is a school of thought on managing growth - you need good managers to manage it, ideally the best managers we can get, right? As we are building the world class organization, we are told by our advisors, whom we love and extremely grateful to, that we need to create an org structure, a matrix structure perhaps, proper policies, and the industrialized processes. But before we fall into the common pattern of adding more people..
 ![](/content/images/2016/08/project-managment.jpg)
 
